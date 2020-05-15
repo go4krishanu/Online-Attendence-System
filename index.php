@@ -107,8 +107,8 @@
   </div>
      <!-- FOOTER -->
       <footer style="background:; height:120%;">
-        <p class="pull-right"><a href="#">Back to top</a></p>
-        <p>&copy;       2020, Inc. &middot;  developed by  <a href="https://www.facebook.com/logon2krish">Krishanu Chakraborty </a><a href="http://projectworlds.in">Privacy</a> &middot; <a href="http://projectworlds.in">Terms</a></p>
+        <p class="pull-right"><a href="#">Back to top</a></p>,
+        <p>&copy;       2020, Inc. &middot;  developed by  <a href="https://www.facebook.com/logon2krish">Krishanu </a> &middot; <a href="http://projectworlds.in">Terms</a></p>
       </footer>
 
     </div><!-- /.container -->
